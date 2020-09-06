@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server2/eureka_server2.iml" filepath="$PROJECT_DIR$/eureka_server2/eureka_server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/src/main/main.iml" filepath="$PROJECT_DIR$/eureka_server/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product_service/src/main/main1.iml" filepath="$PROJECT_DIR$/product_service/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server2/src/main/main2.iml" filepath="$PROJECT_DIR$/eureka_server2/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order_service/src/main/main3.iml" filepath="$PROJECT_DIR$/order_service/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order_service/order_service.iml" filepath="$PROJECT_DIR$/order_service/order_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product_service/product_service.iml" filepath="$PROJECT_DIR$/product_service/product_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-day01.iml" filepath="$PROJECT_DIR$/springCloud-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product_service/src/test/test.iml" filepath="$PROJECT_DIR$/product_service/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
